@@ -1,5 +1,5 @@
-strings = ["banana", "apple", "orange", "grape", "kiwi"]
+strings = ['apple', 'cherry', 'banana', 'elderberry', 'date', 'papaya', 'hitler', 'mango', 'grape', 'kiwi']
 
-strings_ordenados = sorted(strings)
+strings_ordenadas = sorted(strings)
 
-print("cadenas ordenadas:", strings_ordenados)
+print("Cadenas ordenadas:", strings_ordenadas) 
